@@ -1,0 +1,30 @@
+# Build output
+build/
+out/
+bin/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# IDEs and editors
+.vs/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local settings and secrets
+.env
+*.local
